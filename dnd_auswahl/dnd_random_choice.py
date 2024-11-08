@@ -1,8 +1,3 @@
-# Aufgabe 4
-# Speichert euren erstellten Character in einer json Datei und erstellt einen timestamp mit der
-# Library datetime, welcher auch in der json Datei gespeichert wird und angibt, wann der
-# Charakter erstellt wurde.
-
 import urllib.request
 import datetime
 import json
